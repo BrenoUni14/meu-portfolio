@@ -1,0 +1,47 @@
+export const projects = [
+              {
+                            id: "adoPet",
+                            name: "AdoPet",
+                            link: "https://github.com/yuriTakamisawaRibeiro/AdoPet",
+                            image: "/src/assets/adopet.png",
+                            description: "Sistema de adoção de pets.",
+                            tech: ["React", "Firebase", "CSS"],
+                            role: "Colaborei com o frontend do sistema e a responsividade da interface.",
+              },
+              {
+                            id: "airBall",
+                            name: "AirBall",
+                            link: "https://github.com/GMaiaa/airball",
+                            image: "/src/assets/airball.png",
+                            description: "App para basquete de rua.",
+                            tech: ["React Native", "Figma", "Expo"],
+                            role: "Desenvolvimento da interface e navegação.",
+              },
+              {
+                            id: "oneHouse",
+                            name: "One-House",
+                            link: "https://github.com/yRaposo/One-House",
+                            image: "/src/assets/onehouse.png",
+                            description: "Plataforma de automação residencial.",
+                            tech: ["React", "Node.js"],
+                            role: "Participei da integração com o backend e testes da interface.",
+              },
+              {
+                            id: "chromodoro",
+                            name: "Chromodoro",
+                            link: "https://github.com/Carjooj/Chromodoro",
+                            image: "/src/assets/chromodoro.png",
+                            description: "Extensão de timer produtivo estilo Pomodoro.",
+                            tech: ["JavaScript", "Chrome Extension APIs"],
+                            role: "Colaborei com a lógica de contagem e armazenamento de tempo.",
+              },
+              {
+                            id: "audimed",
+                            name: "Audi-Med",
+                            link: "https://github.com/audi-med/treatment-frontend",
+                            image: "/src/assets/audimed.png",
+                            description: "Sistema para controle de tratamentos auditivos.",
+                            tech: ["React", "Node.js"],
+                            role: "Ajudei no frontend com os formulários e consumo da API.",
+              }
+];
